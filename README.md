@@ -1,2 +1,1 @@
-# discord-bot-for-public
-a
+# botTerry
